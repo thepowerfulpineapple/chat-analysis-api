@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+opencv-python
+pytesseract
+snownlp
+paddleocr
+requests
